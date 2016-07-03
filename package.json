@@ -1,0 +1,28 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "A test project for mocha chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rambethina/mocha-chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "template"
+  ],
+  "author": "ram bethina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rambethina/mocha-chai/issues"
+  },
+  "homepage": "https://github.com/rambethina/mocha-chai#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
